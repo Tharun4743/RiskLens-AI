@@ -1,0 +1,47 @@
+[
+  {
+    "rule_id": "R001",
+    "name": "Unusually Large Transfer",
+    "description": "Compares transaction amount against customer established distribution (percentiles and typical amounts).",
+    "enabled": 1,
+    "configuration": {
+      "percentile_threshold": 95.0,
+      "multiplier_threshold": 5.0,
+      "min_material_amount": 150000.0
+    }
+  },
+  {
+    "rule_id": "R002",
+    "name": "New Payee Burst",
+    "description": "Identifies rapid multiple transactions sent to a newly added payee within a short time window.",
+    "enabled": 1,
+    "configuration": {
+      "time_window_minutes": 60,
+      "min_transactions": 3,
+      "min_total_amount": 20000.0
+    }
+  },
+  {
+    "rule_id": "R003",
+    "name": "Odd-Hours Activity",
+    "description": "Flags activity during odd hours (00:00 - 05:00) when customer history shows little to no historical activity.",
+    "enabled": 1,
+    "configuration": {
+      "start_hour": 0,
+      "end_hour": 5,
+      "max_historical_rate": 0.03,
+      "min_odd_transactions": 1
+    }
+  },
+  {
+    "rule_id": "R004",
+    "name": "Behavioural Pattern Break",
+    "description": "Flags significant structural shifts in channel distribution, transaction velocity, or frequency in recent activity.",
+    "enabled": 1,
+    "configuration": {
+      "recent_window_days": 10,
+      "min_channel_deviation_pct": 25.0,
+      "min_recent_txns": 4
+    }
+  }
+]

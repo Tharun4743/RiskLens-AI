@@ -1,0 +1,224 @@
+transaction_id,date,description,payee,amount,channel
+TXN-1013,2026-01-01 08:47:17,Grocery & Household Supplies,Nature Basket,3211.77,CARD
+TXN-1001,2026-01-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1014,2026-01-02 08:01:05,Grocery & Household Supplies,Daily Needs Supermarket,2707.57,CARD
+TXN-1015,2026-01-03 19:34:26,Grocery & Household Supplies,Daily Needs Supermarket,1493.22,CARD
+TXN-1016,2026-01-03 20:51:10,Utility & Telecom Bill Payment,City Gas Corp,1503.0,NETBANKING
+TXN-1019,2026-01-04 09:35:18,Retail E-Commerce Purchase,Zara Clothing,4259.97,CARD
+TXN-1017,2026-01-04 13:06:05,Restaurant / Cafe Dining,Zomato Delivery,1543.79,UPI
+TXN-1018,2026-01-04 17:16:51,Grocery & Household Supplies,Local Kirana Store,2460.86,UPI
+TXN-1020,2026-01-05 08:42:14,Utility & Telecom Bill Payment,State Electricity Board,2860.0,NETBANKING
+TXN-1002,2026-01-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1021,2026-01-05 14:17:29,Restaurant / Cafe Dining,Zomato Delivery,393.26,UPI
+TXN-1022,2026-01-06 18:17:44,Personal Transfer,Rahul Mehta,3241.09,UPI
+TXN-1023,2026-01-08 10:29:24,Grocery & Household Supplies,Daily Needs Supermarket,1273.56,UPI
+TXN-1024,2026-01-08 21:49:49,Grocery & Household Supplies,Fresh Mart,3468.92,UPI
+TXN-1025,2026-01-09 11:58:36,Retail E-Commerce Purchase,Zara Clothing,2326.92,CARD
+TXN-1026,2026-01-10 18:29:09,Grocery & Household Supplies,Nature Basket,3243.71,UPI
+TXN-1028,2026-01-11 10:32:31,Grocery & Household Supplies,Fresh Mart,3679.14,CARD
+TXN-1027,2026-01-11 14:57:37,Restaurant / Cafe Dining,Swiggy Orders,1795.51,UPI
+TXN-1029,2026-01-12 20:43:27,Restaurant / Cafe Dining,Mainland China Resto,761.12,UPI
+TXN-1031,2026-01-13 09:43:56,Restaurant / Cafe Dining,Zomato Delivery,1411.25,UPI
+TXN-1032,2026-01-13 13:07:18,Restaurant / Cafe Dining,Mainland China Resto,125.45,UPI
+TXN-1030,2026-01-13 16:16:35,Retail E-Commerce Purchase,Amazon India,4805.5,CARD
+TXN-1033,2026-01-14 19:16:32,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,2994.68,UPI
+TXN-1034,2026-01-14 21:40:32,Restaurant / Cafe Dining,Swiggy Orders,748.18,UPI
+TXN-1036,2026-01-16 13:56:53,Retail E-Commerce Purchase,Flipkart Internet,1507.0,CARD
+TXN-1035,2026-01-16 16:58:00,Restaurant / Cafe Dining,Mainland China Resto,152.72,UPI
+TXN-1037,2026-01-16 17:05:05,Utility & Telecom Bill Payment,State Electricity Board,3148.26,NETBANKING
+TXN-1038,2026-01-18 16:10:16,Restaurant / Cafe Dining,Chai Point,830.87,UPI
+TXN-1039,2026-01-20 19:44:12,Utility & Telecom Bill Payment,Municipal Water Dept,3188.6,UPI
+TXN-1040,2026-01-21 16:28:07,Grocery & Household Supplies,Fresh Mart,1717.82,CARD
+TXN-1041,2026-01-22 08:04:45,Restaurant / Cafe Dining,Swiggy Orders,233.23,UPI
+TXN-1042,2026-01-24 16:15:17,Utility & Telecom Bill Payment,Metro Broadband,2117.2,UPI
+TXN-1043,2026-01-26 14:12:06,Grocery & Household Supplies,Local Kirana Store,1778.62,UPI
+TXN-1044,2026-01-27 19:03:43,Utility & Telecom Bill Payment,State Electricity Board,992.44,UPI
+TXN-1045,2026-01-28 09:15:12,Grocery & Household Supplies,Local Kirana Store,975.68,CARD
+TXN-1046,2026-01-28 12:29:15,Retail E-Commerce Purchase,Amazon India,3548.59,CARD
+TXN-1047,2026-01-29 16:06:03,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,2814.66,NETBANKING
+TXN-1048,2026-01-29 20:54:15,Grocery & Household Supplies,Local Kirana Store,2255.09,UPI
+TXN-1049,2026-01-30 10:24:00,Personal Transfer,Amit Kapoor,4669.33,UPI
+TXN-1051,2026-01-30 15:09:12,Grocery & Household Supplies,Fresh Mart,2621.93,CARD
+TXN-1050,2026-01-30 20:29:18,Restaurant / Cafe Dining,Chai Point,1231.94,UPI
+TXN-1052,2026-01-31 08:03:37,Restaurant / Cafe Dining,Chai Point,384.49,UPI
+TXN-1053,2026-01-31 16:05:54,Grocery & Household Supplies,Daily Needs Supermarket,704.85,CARD
+TXN-1003,2026-02-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1054,2026-02-01 17:15:37,Restaurant / Cafe Dining,Chai Point,257.73,UPI
+TXN-1056,2026-02-02 13:15:16,Restaurant / Cafe Dining,Zomato Delivery,888.14,UPI
+TXN-1055,2026-02-02 17:33:20,Personal Transfer,Sunita Nair,3513.77,UPI
+TXN-1057,2026-02-03 09:00:29,Restaurant / Cafe Dining,Chai Point,1793.44,UPI
+TXN-1058,2026-02-03 09:34:13,Restaurant / Cafe Dining,Swiggy Orders,1687.88,UPI
+TXN-1059,2026-02-03 09:56:15,Restaurant / Cafe Dining,Swiggy Orders,856.15,UPI
+TXN-1060,2026-02-04 12:39:51,Utility & Telecom Bill Payment,State Electricity Board,2419.48,UPI
+TXN-1061,2026-02-05 09:56:08,Grocery & Household Supplies,Fresh Mart,3234.06,CARD
+TXN-1062,2026-02-05 12:18:38,Grocery & Household Supplies,BigBasket Online,1213.49,UPI
+TXN-1004,2026-02-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1063,2026-02-05 16:31:16,Retail E-Commerce Purchase,Amazon India,1689.18,CARD
+TXN-1064,2026-02-06 12:02:00,Grocery & Household Supplies,Nature Basket,2839.18,UPI
+TXN-1065,2026-02-08 19:27:35,Grocery & Household Supplies,Fresh Mart,3993.94,CARD
+TXN-1066,2026-02-09 21:23:37,Restaurant / Cafe Dining,Mainland China Resto,334.11,UPI
+TXN-1067,2026-02-10 20:55:02,Retail E-Commerce Purchase,Flipkart Internet,4814.95,CARD
+TXN-1068,2026-02-11 13:49:35,Retail E-Commerce Purchase,Decathlon Sports,6361.34,CARD
+TXN-1069,2026-02-11 19:09:59,Personal Transfer,Sunita Nair,4892.93,UPI
+TXN-1070,2026-02-12 14:01:11,Utility & Telecom Bill Payment,City Gas Corp,2688.61,UPI
+TXN-1071,2026-02-12 20:42:55,Utility & Telecom Bill Payment,Metro Broadband,1476.99,NETBANKING
+TXN-1072,2026-02-13 08:54:30,Grocery & Household Supplies,Local Kirana Store,1761.22,CARD
+TXN-1073,2026-02-15 14:21:17,Retail E-Commerce Purchase,Zara Clothing,3061.07,CARD
+TXN-1074,2026-02-15 16:25:43,Personal Transfer,Domestic Help Anita,1990.17,UPI
+TXN-1075,2026-02-17 12:11:37,Personal Transfer,Amit Kapoor,672.16,UPI
+TXN-1076,2026-02-17 17:27:22,Utility & Telecom Bill Payment,City Gas Corp,1875.53,NETBANKING
+TXN-1077,2026-02-18 17:12:16,Grocery & Household Supplies,Local Kirana Store,456.34,CARD
+TXN-1078,2026-02-19 09:42:58,Grocery & Household Supplies,BigBasket Online,2937.7,CARD
+TXN-1079,2026-02-20 12:32:19,Utility & Telecom Bill Payment,City Gas Corp,1795.64,UPI
+TXN-1080,2026-02-20 16:08:12,Restaurant / Cafe Dining,Mainland China Resto,1257.89,UPI
+TXN-1082,2026-02-21 11:27:50,Restaurant / Cafe Dining,Zomato Delivery,901.18,UPI
+TXN-1083,2026-02-21 15:43:13,Restaurant / Cafe Dining,Swiggy Orders,1226.87,UPI
+TXN-1081,2026-02-21 17:36:19,Restaurant / Cafe Dining,Blue Tokai Coffee,630.51,UPI
+TXN-1084,2026-02-22 18:40:39,Grocery & Household Supplies,Nature Basket,2972.98,CARD
+TXN-1085,2026-02-23 10:01:02,Grocery & Household Supplies,Local Kirana Store,2742.28,CARD
+TXN-1086,2026-02-23 15:26:56,Restaurant / Cafe Dining,Swiggy Orders,1326.82,UPI
+TXN-1087,2026-02-24 14:15:09,Utility & Telecom Bill Payment,State Electricity Board,2947.75,NETBANKING
+TXN-1088,2026-02-25 11:11:51,Personal Transfer,Domestic Help Anita,2590.47,UPI
+TXN-1089,2026-02-25 16:15:58,Retail E-Commerce Purchase,Decathlon Sports,1906.7,CARD
+TXN-1090,2026-02-26 16:35:38,Grocery & Household Supplies,Local Kirana Store,2747.45,UPI
+TXN-1091,2026-02-27 16:28:57,Grocery & Household Supplies,Local Kirana Store,2137.76,CARD
+TXN-1092,2026-02-27 21:40:17,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,1988.8,NETBANKING
+TXN-1093,2026-02-28 09:45:18,Grocery & Household Supplies,BigBasket Online,1648.91,CARD
+TXN-1005,2026-03-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1095,2026-03-03 14:03:13,Retail E-Commerce Purchase,Decathlon Sports,5995.64,CARD
+TXN-1094,2026-03-03 19:13:04,Restaurant / Cafe Dining,Zomato Delivery,1031.59,UPI
+TXN-1096,2026-03-04 19:01:54,Retail E-Commerce Purchase,Decathlon Sports,3727.99,CARD
+TXN-1099,2026-03-05 12:27:31,Grocery & Household Supplies,BigBasket Online,2958.28,UPI
+TXN-1097,2026-03-05 12:48:24,Retail E-Commerce Purchase,Decathlon Sports,4052.57,CARD
+TXN-1006,2026-03-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1098,2026-03-05 19:34:51,Restaurant / Cafe Dining,Swiggy Orders,940.23,UPI
+TXN-1101,2026-03-06 17:36:42,Grocery & Household Supplies,Local Kirana Store,958.87,UPI
+TXN-1100,2026-03-06 21:29:58,Grocery & Household Supplies,Daily Needs Supermarket,2452.96,UPI
+TXN-1102,2026-03-08 13:13:29,Grocery & Household Supplies,Local Kirana Store,1493.46,UPI
+TXN-1103,2026-03-09 09:30:01,Utility & Telecom Bill Payment,State Electricity Board,3199.78,UPI
+TXN-1104,2026-03-12 08:48:01,Personal Transfer,Sunita Nair,4276.53,UPI
+TXN-1106,2026-03-12 15:44:16,Utility & Telecom Bill Payment,Metro Broadband,2273.85,NETBANKING
+TXN-1105,2026-03-12 17:09:15,Grocery & Household Supplies,Fresh Mart,2564.89,CARD
+TXN-1107,2026-03-13 10:19:06,Restaurant / Cafe Dining,Zomato Delivery,1087.34,UPI
+TXN-1108,2026-03-13 14:25:45,Grocery & Household Supplies,Daily Needs Supermarket,3039.8,CARD
+TXN-1110,2026-03-15 14:42:23,Grocery & Household Supplies,BigBasket Online,497.45,UPI
+TXN-1109,2026-03-15 21:43:38,Retail E-Commerce Purchase,Amazon India,3040.18,CARD
+TXN-1111,2026-03-16 09:27:23,Restaurant / Cafe Dining,Mainland China Resto,1308.28,UPI
+TXN-1112,2026-03-16 14:11:46,Restaurant / Cafe Dining,Zomato Delivery,1154.73,UPI
+TXN-1115,2026-03-17 11:48:29,Restaurant / Cafe Dining,Mainland China Resto,685.15,UPI
+TXN-1113,2026-03-17 20:30:29,Restaurant / Cafe Dining,Chai Point,570.9,UPI
+TXN-1114,2026-03-17 21:15:53,Personal Transfer,Amit Kapoor,4467.34,UPI
+TXN-1116,2026-03-18 13:11:31,Grocery & Household Supplies,BigBasket Online,1726.27,UPI
+TXN-1117,2026-03-19 16:12:05,Grocery & Household Supplies,Local Kirana Store,2282.17,CARD
+TXN-1119,2026-03-20 11:25:44,Grocery & Household Supplies,Daily Needs Supermarket,1833.83,UPI
+TXN-1118,2026-03-20 18:45:31,Restaurant / Cafe Dining,Blue Tokai Coffee,276.33,UPI
+TXN-1120,2026-03-21 19:35:21,Restaurant / Cafe Dining,Mainland China Resto,575.14,UPI
+TXN-1121,2026-03-22 09:46:12,Grocery & Household Supplies,Daily Needs Supermarket,4015.79,CARD
+TXN-1123,2026-03-24 09:53:12,Grocery & Household Supplies,BigBasket Online,1122.91,CARD
+TXN-1122,2026-03-24 12:46:37,Personal Transfer,Domestic Help Anita,3185.56,UPI
+TXN-1124,2026-03-25 10:17:02,Personal Transfer,Domestic Help Anita,1814.61,UPI
+TXN-1125,2026-03-25 10:40:55,Utility & Telecom Bill Payment,State Electricity Board,2900.89,UPI
+TXN-1126,2026-03-26 15:21:11,Personal Transfer,Amit Kapoor,4734.79,UPI
+TXN-1127,2026-03-27 21:04:25,Restaurant / Cafe Dining,Chai Point,1177.47,UPI
+TXN-1128,2026-03-30 12:05:15,Grocery & Household Supplies,Local Kirana Store,2723.69,CARD
+TXN-1130,2026-03-31 12:36:39,Grocery & Household Supplies,Fresh Mart,4003.46,CARD
+TXN-1129,2026-03-31 14:28:58,Restaurant / Cafe Dining,Chai Point,1783.25,UPI
+TXN-1007,2026-04-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1131,2026-04-01 12:42:05,Grocery & Household Supplies,Nature Basket,2519.97,CARD
+TXN-1132,2026-04-03 17:30:18,Grocery & Household Supplies,BigBasket Online,3101.08,UPI
+TXN-1008,2026-04-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1133,2026-04-06 20:40:37,Utility & Telecom Bill Payment,Metro Broadband,1849.08,NETBANKING
+TXN-1134,2026-04-07 12:52:09,Grocery & Household Supplies,Nature Basket,3422.36,UPI
+TXN-1135,2026-04-08 15:44:19,Utility & Telecom Bill Payment,City Gas Corp,2026.11,UPI
+TXN-1136,2026-04-09 17:02:56,Restaurant / Cafe Dining,Zomato Delivery,1134.24,UPI
+TXN-1138,2026-04-12 20:48:11,Restaurant / Cafe Dining,Mainland China Resto,1659.0,UPI
+TXN-1137,2026-04-12 21:36:37,Personal Transfer,Amit Kapoor,3093.11,UPI
+TXN-1139,2026-04-14 18:52:31,Personal Transfer,Flat Rent Landlord,2065.82,UPI
+TXN-1140,2026-04-15 18:06:54,Grocery & Household Supplies,Local Kirana Store,3051.28,UPI
+TXN-1142,2026-04-16 12:20:07,Personal Transfer,Flat Rent Landlord,4392.1,UPI
+TXN-1141,2026-04-16 14:52:48,Restaurant / Cafe Dining,Mainland China Resto,267.94,UPI
+TXN-1143,2026-04-17 08:42:55,Restaurant / Cafe Dining,Mainland China Resto,211.06,UPI
+TXN-1144,2026-04-17 16:23:39,Utility & Telecom Bill Payment,Municipal Water Dept,2635.98,NETBANKING
+TXN-1145,2026-04-18 10:59:18,Restaurant / Cafe Dining,Mainland China Resto,324.0,UPI
+TXN-1147,2026-04-19 09:14:53,Retail E-Commerce Purchase,Decathlon Sports,6219.42,CARD
+TXN-1146,2026-04-19 17:51:15,Utility & Telecom Bill Payment,City Gas Corp,2144.47,UPI
+TXN-1148,2026-04-19 18:53:09,Restaurant / Cafe Dining,Zomato Delivery,974.9,UPI
+TXN-1149,2026-04-20 21:30:30,Grocery & Household Supplies,Daily Needs Supermarket,992.41,CARD
+TXN-1152,2026-04-21 12:53:37,Restaurant / Cafe Dining,Mainland China Resto,1573.64,UPI
+TXN-1151,2026-04-21 13:59:50,Restaurant / Cafe Dining,Blue Tokai Coffee,595.17,UPI
+TXN-1150,2026-04-21 16:47:56,Grocery & Household Supplies,Fresh Mart,1485.93,UPI
+TXN-1153,2026-04-22 15:22:21,Restaurant / Cafe Dining,Chai Point,753.71,UPI
+TXN-1155,2026-04-23 08:20:47,Restaurant / Cafe Dining,Mainland China Resto,768.61,UPI
+TXN-1156,2026-04-23 18:50:52,Utility & Telecom Bill Payment,Metro Broadband,2014.02,NETBANKING
+TXN-1154,2026-04-23 21:12:44,Grocery & Household Supplies,Local Kirana Store,1325.86,UPI
+TXN-1159,2026-04-25 13:39:44,Restaurant / Cafe Dining,Blue Tokai Coffee,1550.97,UPI
+TXN-1157,2026-04-25 13:55:06,Retail E-Commerce Purchase,Decathlon Sports,1728.47,CARD
+TXN-1158,2026-04-25 15:00:46,Grocery & Household Supplies,Nature Basket,730.61,UPI
+TXN-1161,2026-04-26 08:39:04,Grocery & Household Supplies,BigBasket Online,4190.35,CARD
+TXN-1160,2026-04-26 21:34:24,Personal Transfer,Flat Rent Landlord,4425.72,UPI
+TXN-1162,2026-04-27 09:48:40,Utility & Telecom Bill Payment,State Electricity Board,1892.64,UPI
+TXN-1163,2026-04-28 08:20:50,Grocery & Household Supplies,BigBasket Online,1855.65,CARD
+TXN-1165,2026-04-28 09:39:55,Restaurant / Cafe Dining,Swiggy Orders,956.08,UPI
+TXN-1164,2026-04-28 11:33:26,Restaurant / Cafe Dining,Swiggy Orders,405.57,UPI
+TXN-1166,2026-04-29 11:29:40,Grocery & Household Supplies,BigBasket Online,2950.65,UPI
+TXN-1168,2026-04-30 18:27:44,Grocery & Household Supplies,BigBasket Online,1197.06,UPI
+TXN-1167,2026-04-30 18:34:10,Grocery & Household Supplies,BigBasket Online,4153.69,UPI
+TXN-1169,2026-04-30 21:30:06,Grocery & Household Supplies,Daily Needs Supermarket,1796.1,UPI
+TXN-1009,2026-05-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1172,2026-05-01 11:38:51,Restaurant / Cafe Dining,Swiggy Orders,1163.1,UPI
+TXN-1170,2026-05-01 12:01:53,Utility & Telecom Bill Payment,City Gas Corp,869.03,NETBANKING
+TXN-1171,2026-05-01 17:47:31,Retail E-Commerce Purchase,Zara Clothing,5311.43,CARD
+TXN-1174,2026-05-02 12:50:28,Grocery & Household Supplies,BigBasket Online,3196.35,CARD
+TXN-1173,2026-05-02 19:49:42,Utility & Telecom Bill Payment,Metro Broadband,2326.38,NETBANKING
+TXN-1175,2026-05-03 13:47:26,Grocery & Household Supplies,Nature Basket,3399.42,UPI
+TXN-1176,2026-05-03 16:32:58,Grocery & Household Supplies,Nature Basket,1413.64,UPI
+TXN-1177,2026-05-03 20:18:47,Retail E-Commerce Purchase,Amazon India,3682.16,CARD
+TXN-1179,2026-05-05 09:50:25,Grocery & Household Supplies,Daily Needs Supermarket,913.46,UPI
+TXN-1178,2026-05-05 11:55:43,Utility & Telecom Bill Payment,Municipal Water Dept,3123.08,UPI
+TXN-1010,2026-05-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1181,2026-05-06 11:30:01,Restaurant / Cafe Dining,Chai Point,671.05,UPI
+TXN-1180,2026-05-06 18:16:37,Restaurant / Cafe Dining,Zomato Delivery,302.02,UPI
+TXN-1182,2026-05-07 18:04:40,Retail E-Commerce Purchase,Zara Clothing,4640.97,CARD
+TXN-1183,2026-05-11 09:06:15,Retail E-Commerce Purchase,Flipkart Internet,3259.82,CARD
+TXN-1184,2026-05-11 13:42:47,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,1834.95,NETBANKING
+TXN-1185,2026-05-11 14:41:06,Retail E-Commerce Purchase,Decathlon Sports,6176.98,CARD
+TXN-1186,2026-05-12 19:23:13,Restaurant / Cafe Dining,Swiggy Orders,1557.16,UPI
+TXN-1188,2026-05-14 09:54:52,Restaurant / Cafe Dining,Swiggy Orders,1198.06,UPI
+TXN-1187,2026-05-14 16:57:41,Restaurant / Cafe Dining,Mainland China Resto,583.48,UPI
+TXN-1189,2026-05-15 08:03:50,Grocery & Household Supplies,Nature Basket,3401.17,CARD
+TXN-1191,2026-05-17 10:50:57,Restaurant / Cafe Dining,Zomato Delivery,1562.12,UPI
+TXN-1190,2026-05-17 11:37:13,Retail E-Commerce Purchase,Flipkart Internet,2941.37,CARD
+TXN-1192,2026-05-20 10:07:42,Retail E-Commerce Purchase,Flipkart Internet,1278.76,CARD
+TXN-1193,2026-05-21 11:37:20,Grocery & Household Supplies,BigBasket Online,646.5,UPI
+TXN-1194,2026-05-21 16:07:47,Grocery & Household Supplies,Local Kirana Store,3367.56,CARD
+TXN-1195,2026-05-22 11:39:02,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,1558.83,NETBANKING
+TXN-1196,2026-05-24 14:27:43,Grocery & Household Supplies,Local Kirana Store,725.59,CARD
+TXN-1197,2026-05-25 10:04:08,Grocery & Household Supplies,Daily Needs Supermarket,2506.34,UPI
+TXN-1198,2026-05-26 17:33:18,Restaurant / Cafe Dining,Chai Point,842.73,UPI
+TXN-1199,2026-05-27 09:54:41,Utility & Telecom Bill Payment,Mobile Postpaid Airtel,2543.97,NETBANKING
+TXN-1200,2026-05-27 14:28:56,Grocery & Household Supplies,BigBasket Online,3552.82,UPI
+TXN-1201,2026-05-28 09:20:27,Grocery & Household Supplies,BigBasket Online,1853.63,CARD
+TXN-1202,2026-05-29 15:04:05,Retail E-Commerce Purchase,Amazon India,3488.95,CARD
+TXN-1203,2026-05-29 19:47:23,Retail E-Commerce Purchase,Amazon India,4308.26,CARD
+TXN-1204,2026-05-30 13:42:07,Restaurant / Cafe Dining,Mainland China Resto,1578.39,UPI
+TXN-1206,2026-05-31 10:42:30,Grocery & Household Supplies,Fresh Mart,1762.93,UPI
+TXN-1205,2026-05-31 12:38:19,Restaurant / Cafe Dining,Chai Point,972.45,UPI
+TXN-1011,2026-06-01 10:30:00,Monthly Salary Credit,TechCorp Solutions India,95000.0,NEFT
+TXN-1207,2026-06-02 11:51:27,Retail E-Commerce Purchase,Amazon India,4427.67,CARD
+TXN-1209,2026-06-03 08:11:55,Grocery & Household Supplies,Local Kirana Store,710.95,CARD
+TXN-1208,2026-06-03 19:17:01,Grocery & Household Supplies,BigBasket Online,3905.77,UPI
+TXN-1012,2026-06-05 14:15:00,Residential Apartment Rent,Flat Rent Landlord,22000.0,NEFT
+TXN-1210,2026-06-05 14:26:29,Grocery & Household Supplies,BigBasket Online,1618.64,UPI
+TXN-1212,2026-06-06 17:03:43,Grocery & Household Supplies,Local Kirana Store,2932.27,UPI
+TXN-1211,2026-06-06 17:38:05,Retail E-Commerce Purchase,Flipkart Internet,2034.27,CARD
+TXN-1213,2026-06-07 14:17:13,Utility & Telecom Bill Payment,State Electricity Board,1661.16,NETBANKING
+TXN-1214,2026-06-08 18:37:31,Restaurant / Cafe Dining,Zomato Delivery,196.3,UPI
+TXN-1215,2026-06-09 17:03:00,Grocery & Household Supplies,Nature Basket,3327.56,UPI
+TXN-1216,2026-06-10 09:00:31,Utility & Telecom Bill Payment,Metro Broadband,1153.59,NETBANKING
+TXN-1217,2026-06-11 21:42:51,Restaurant / Cafe Dining,Mainland China Resto,1567.76,UPI
+TXN-1219,2026-06-14 14:18:07,Restaurant / Cafe Dining,Zomato Delivery,408.75,UPI
+TXN-1220,2026-06-14 17:29:53,Utility & Telecom Bill Payment,City Gas Corp,1057.11,NETBANKING
+TXN-1218,2026-06-14 21:20:36,Restaurant / Cafe Dining,Mainland China Resto,1311.96,UPI
+TXN-1221,2026-06-16 16:05:25,Retail E-Commerce Purchase,Zara Clothing,2374.33,CARD
+TXN-1222,2026-06-17 09:32:40,Grocery & Household Supplies,Daily Needs Supermarket,1177.14,UPI
+TXN-1223,2026-06-17 13:46:52,Restaurant / Cafe Dining,Swiggy Orders,516.93,UPI

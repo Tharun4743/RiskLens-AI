@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232563EB' stroke-width='2'><path d='M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z'/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RiskLens AI — Banking Transaction Risk Investigation Assistant</title>
+    <meta name="description" content="Evidence-first transaction risk investigation assistant for banking analysts. Analyzes behavior baselines, detects anomalies deterministically, and prepares cases for human review." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="theme-color" content="#ffffff" id="meta-theme-color" />
+    <meta name="color-scheme" content="light dark" />
+
+    <script>
+      (function() {
+        try {
+          var savedTheme = localStorage.getItem('risklens_theme');
+          var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (savedTheme === 'dark' || (!savedTheme && systemDark)) {
+            document.documentElement.classList.add('dark');
+            document.documentElement.style.colorScheme = 'dark';
+            var meta = document.getElementById('meta-theme-color');
+            if (meta) meta.setAttribute('content', '#09090b');
+          } else {
+            document.documentElement.classList.remove('dark');
+            document.documentElement.style.colorScheme = 'light';
+            var meta = document.getElementById('meta-theme-color');
+            if (meta) meta.setAttribute('content', '#ffffff');
+          }
+        } catch (e) {}
+      })();
+    </script>
+
+    <style>
+      :root {
+        color-scheme: light;
+        --bg-body: #ffffff;
+        --text-body: #18181b;
+      }
+      html.dark {
+        color-scheme: dark;
+        --bg-body: #09090b;
+        --text-body: #f4f4f5;
+      }
+      html {
+        background-color: var(--bg-body);
+        color: var(--text-body);
+        margin: 0;
+        padding: 0;
+        min-height: 100%;
+        min-height: 100dvh;
+        min-height: -webkit-fill-available;
+        overscroll-behavior-y: none;
+      }
+      body {
+        background-color: var(--bg-body);
+        color: var(--text-body);
+        margin: 0;
+        padding: 0;
+        min-height: 100%;
+        min-height: 100dvh;
+        min-height: -webkit-fill-available;
+        -webkit-font-smoothing: antialiased;
+        overscroll-behavior-y: none;
+      }
+      #root {
+        background-color: var(--bg-body);
+        min-height: 100%;
+        min-height: 100dvh;
+        min-height: -webkit-fill-available;
+        width: 100%;
+      }
+      @keyframes initShimmer {
+        0% { background-position: -200% 0; }
+        100% { background-position: 200% 0; }
+      }
+      .init-shimmer {
+        background: linear-gradient(90deg, #f4f4f5 0%, #e4e4e7 35%, #f4f4f5 70%);
+        background-size: 200% 100%;
+        animation: initShimmer 1.6s ease-in-out infinite;
+        border-radius: 0.75rem;
+      }
+      .dark .init-shimmer {
+        background: linear-gradient(90deg, #18181b 0%, #27272a 35%, #18181b 70%);
+        background-size: 200% 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+customer_id,name,profile,expected_result
+CUST-001,Priya Sharma,"Normal Behavioral Profile (Salary, groceries, utilities, typical daytime UPI/card usage)",NO ATTENTION REQUIRED
+CUST-002,Arjun Patel,"Large Transfer Scenario (Normal ₹1k-₹10k range with anomalous ₹4,80,000 transfer)",ATTENTION REQUIRED (R001: Unusually Large Transfer)
+CUST-003,Ananya Roy,New Payee Rapid Burst Scenario (New payee XYZ Services with rapid burst within 47 minutes),ATTENTION REQUIRED (R002: New Payee Burst)
+CUST-004,Vikram Malhotra,Odd-Hours Activity Scenario (Strict historical daytime activity with 02:00-04:00 night transactions),ATTENTION REQUIRED (R003: Odd-Hours Activity)
+CUST-005,Rajesh Verma,Complex Multi-Vector Case (Large transfer + new payee burst + odd-hours + channel shift),"ATTENTION REQUIRED (R001, R002, R003, R004)"
