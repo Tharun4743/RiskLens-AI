@@ -30,6 +30,19 @@ RiskLens AI is an intelligent financial transaction risk investigation platform.
 ---
 
 ## 4. ⚙️ Technical Approach & System Architecture
+
+### 📐 High-Level Architectural Flowchart:
+```mermaid
+graph TD
+    Alert["High-Risk Transaction Flag"] -->|Audit Payload| Ingestion["RiskLens Evidence Aggregator"]
+    Ingestion --> Ledger["Account History & Historical KYC Lookup"]
+    Ingestion --> Anomaly["Behavioral Deviation Classifier"]
+    Ledger --> LLMAssistant["AI Evidence Synthesis Engine (Gemini Flash)"]
+    Anomaly --> LLMAssistant
+    LLMAssistant --> Dossier["Automated Regulatory SAR / STR Investigative Dossier"]
+    Dossier --> Analyst["Fraud Operations & Compliance Officer"]
+```
+
 | Investigation Pipeline | Technologies | Operational Outcome |
 | :--- | :--- | :--- |
 | **Ingestion & ETL** | Python, Pandas, NumPy | Cleans and normalizes raw transaction logs, timestamps, and merchant codes |
