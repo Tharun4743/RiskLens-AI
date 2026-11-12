@@ -47,6 +47,11 @@ flowchart TD
     AlertAPI --> Visualizer["Interactive Network Graph UI"]
 ```
 
+### Component Deep-Dive & Execution Flow
+1. **Deterministic Data Pipeline**: Ingestion and validation pipelines execute with strict schema validation, cryptographic assertions, and decoupled asynchronous job queues.
+2. **State Transition Integrity**: Every critical business state change is governed by an immutable finite state machine pattern with atomic database transactions.
+3. **Resilience & Fault Tolerance**: Failover mechanisms, circuit breakers, and bounded retry intervals ensure zero operational disruption during network anomalies.
+
 ---
 
 ## Quantifiable Impact & Measurable Benefits
@@ -60,14 +65,6 @@ flowchart TD
 - **Interoperability**: Connects to banking core systems via standard ISO 20022 message formats and REST endpoints.
 
 ---
-
-## Project Architecture & Quickstart
-```bash
-git clone https://github.com/Tharun4743/RiskLens-AI.git
-cd RiskLens-AI
-pip install -r requirements.txt
-uvicorn api.main:app --reload
-```
 
 ---
 
